@@ -1,0 +1,13 @@
+theme=tokyonight
+background-opacity=0.76
+font-family = "JetBrainsMono Nerd Font"
+font-size = 15.5
+window-padding-x=14
+window-padding-y=14
+cursor-style=block
+cursor-style-blink=true
+macos-titlebar-style=native
+confirm-close-surface=false
+copy-on-select=true
+shell-integration=zsh
+
