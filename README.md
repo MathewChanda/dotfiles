@@ -1,6 +1,5 @@
 # Mathew's Dotfiles
 
-
 ## Ghostty 
 
 ghostty is a minimal terminal emulator configuration used here. It supports a transparent background for blending with your desktop wallpaper and includes the "Tokyo" color theme for a vibrant, high-contrast look. 
@@ -21,6 +20,8 @@ Configuration notes:
 - Keep zsh-autosuggestions before zsh-syntax-highlighting in sourcing order for best behavior.
 - Tune powerlevel10k via its configuration wizard (~/.p10k.zsh).
 
+## tmux.config 
+Added tmux keybindings similar to WASD keys bindings 
 
 ## Development tools
 - [NotchNook](https://lo.cafe/notchnook)
